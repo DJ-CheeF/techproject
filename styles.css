@@ -1,4 +1,19 @@
 /* Global Styles */
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: crimson;
+}
+
+a:active {
+    border: 3px solid crimson;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
